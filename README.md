@@ -15,7 +15,8 @@ Sometimes you want to download all the attachments in a long, many-message Gmail
 
 This approach worked for me, though ⚠⚠⚠  your mileage may vary ⚠⚠⚠ :
 
-1. Open the conversation (ideally in a new window, but not necessary)
+1. Open the conversation (ideally in a new window, but not necessary).
+    - Note: Make sure that all messages in the conversation are open (i.e., not collapsed). One way to do this is to mark the conversation as unread, and then reopen it.
 2. Open your browser's developer console
 3. Paste the following JavaScript into the console:
 
